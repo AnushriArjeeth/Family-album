@@ -1,0 +1,21 @@
+
+button
+{
+
+    background-color:"pink";
+
+}
+
+img
+{
+    height: 500px;
+    border-color: rgb(6, 4, 136);
+    border-width: 20px;
+    border-radius: 10px;
+}
+
+body
+{
+    text-align: center;
+}
+
